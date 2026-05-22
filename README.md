@@ -1,0 +1,1 @@
+# aws-eu-gdpr-data-residency-perimeter-terraform
